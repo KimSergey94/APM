@@ -31,6 +31,6 @@ export class ProductDetailComponent implements OnInit {
   }
 
   onBack(): void {
-    this.router.navigate['/welcome'];
+    this.router.navigate['/welcomeToTheMoon!'];
   }
 }
